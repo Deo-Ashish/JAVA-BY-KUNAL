@@ -11,7 +11,7 @@ public class SearchInMountain {
         if (firstTry != -1) {
             return firstTry;
         }
-        return orderAgnosticBinarySearch(arr, target, peak, arr.length - 1);
+        return orderAgnosticBinarySearch(arr, target, peak + 1, arr.length - 1);
     }
 
     public static int peakIndexInMountainArray(int[] arr) {
