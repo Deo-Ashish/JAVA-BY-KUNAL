@@ -1,13 +1,13 @@
 public class CeilingBS {
     static void main(String[] args) {
         int[] arr = {0, 1, 2, 34, 34, 45, 66, 90};
-        int target = 92;
+        int target = 67;
         int result = Ceiling(arr, target);
         System.out.println(result);
     }
 
     static int Ceiling(int[] arr, int target) {
-        if (target > arr.length - 1) {
+        if (target > arr[arr.length - 1]) {
             return -1;
         }
 
