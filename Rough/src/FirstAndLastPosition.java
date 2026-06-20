@@ -1,9 +1,10 @@
 import java.util.Arrays;
 
+//Find the first and last index of target element
 public class FirstAndLastPosition {
     static void main(String[] args) {
         int[] arr = {12, 23, 33, 33, 33, 88};
-        int target = 34;
+        int target = 33;
         int[] result = searchRange(arr, target);
         System.out.println(Arrays.toString(result));
     }
