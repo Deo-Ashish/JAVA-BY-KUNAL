@@ -1,4 +1,6 @@
 public class SmallestLetter {
+    //Find smallest letter after the target element.
+
     public static void main(String[] args) {
         char[] arr = {'c', 'f', 'j'};
         char target = 'f';
