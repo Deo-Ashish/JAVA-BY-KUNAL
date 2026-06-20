@@ -1,7 +1,7 @@
 public class FloorBS {
     static void main(String[] args) {
         int[] arr = {0, 1, 2, 34, 34, 45, 66, 90};
-        int target = -1;
+        int target = 46;
         int result = Floor(arr, target);
         System.out.println(result);
     }
