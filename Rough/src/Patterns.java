@@ -273,7 +273,7 @@
 
 public class Patterns {
     static void main(String[] args) {
-        pattern4(5);
+        pattern6(5);
 
     }
 
@@ -318,6 +318,18 @@ public class Patterns {
             int totalCols = row > n ? n * 2 - row : row;
             for (int col = 0; col < totalCols; col++) {
                 System.out.print("* ");
+            }
+            System.out.println();
+        }
+    }
+
+    static void pattern6(int n) {
+        for (int row = 0; row < n; row++) {
+            for (int space = n - 1; space > row; space--) {
+                System.out.print(" ");
+            }
+            for (int col = 0; col <= row; col++) {
+                System.out.print("*");
             }
             System.out.println();
         }
