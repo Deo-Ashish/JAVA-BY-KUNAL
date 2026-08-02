@@ -449,7 +449,35 @@ public class Patterns {
         }
     }
 
+    static void pattern14(int n) {
+        // 14. *********
+        //      *     *
+        //       *   *
+        //        * *
+        //         *
+
+        for (int row = n - 1; row >= 0; row--) {
+
+            // Spaces
+            for (int space = 0; space < n - row - 1; space++) {
+                System.out.print(" ");
+            }
+
+            // Stars
+            for (int col = 0; col < 2 * row + 1; col++) {
+
+                if (row == n - 1 || col == 0 || col == 2 * row) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
+                }
+            }
+
+            System.out.println();
+        }
+    }
+
     static void main(String[] args) {
-        pattern13(5);
+        pattern14(5);
     }
 }
