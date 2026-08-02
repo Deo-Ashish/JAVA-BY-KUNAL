@@ -272,10 +272,6 @@
  */
 
 public class Patterns {
-    static void main(String[] args) {
-        pattern8(5);
-
-    }
 
     static void pattern1(int n) {
         for (int row = 0; row < n; row++) {
@@ -355,11 +351,24 @@ public class Patterns {
             for (int col = 1; col <= 2 * row - 1; col++) {
                 System.out.print("*");
             }
-//            for (int col2 = 2; col2 <= row; col2++) {
-//                System.out.print("*");
-//            }
             System.out.println();
         }
+    }
+
+    static void pattern9(int n) {
+        for (int row = n; row >= 1; row--) {
+            for (int space = 1; space <= n - row; space++) {
+                System.out.print(" ");
+            }
+            for (int col = 1; col <= 2 * row - 1; col++) {
+                System.out.print("*");
+            }
+            System.out.println();
+        }
+    }
+
+    static void main(String[] args) {
+        pattern9(5);
     }
 }
 
