@@ -367,8 +367,22 @@ public class Patterns {
         }
     }
 
+    static void pattern10(int n) {
+        for (int row = 0; row < n; row++) {
+            for (int space = n; space > row; space--) {
+                System.out.print("$");
+            }
+
+            for (int star = 0; star <= row; star++) {
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+    }
+
     static void main(String[] args) {
-        pattern9(5);
+        pattern10(5);
     }
 }
 
