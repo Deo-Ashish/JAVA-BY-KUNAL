@@ -395,9 +395,61 @@ public class Patterns {
         }
     }
 
+    static void pattern12(int n) {
+        for (int row = n - 1; row >= 0; row--) {
+            for (int space = n; space > row; space--) {
+                System.out.print(" ");
+            }
+
+            for (int star = 0; star <= row; star++) {
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+
+        for (int row = 0; row < n; row++) {
+            for (int space = n; space > row; space--) {
+                System.out.print(" ");
+            }
+
+            for (int star = 0; star <= row; star++) {
+                System.out.print("* ");
+            }
+
+            System.out.println();
+        }
+    }
+
+    static void pattern13(int n) {
+        // 13.     *
+        //        * *
+        //       *   *
+        //      *     *
+        //     *********
+
+        for (int row = 0; row < n; row++) {
+
+            // Spaces
+            for (int space = 0; space < n - row - 1; space++) {
+                System.out.print(" ");
+            }
+
+            // Stars
+            for (int col = 0; col < 2 * row + 1; col++) {
+
+                if (row == n - 1 || col == 0 || col == 2 * row) {
+                    System.out.print("*");
+                } else {
+                    System.out.print(" ");
+                }
+            }
+
+            System.out.println();
+        }
+    }
+
     static void main(String[] args) {
-        pattern11(5);
+        pattern13(5);
     }
 }
-
-
