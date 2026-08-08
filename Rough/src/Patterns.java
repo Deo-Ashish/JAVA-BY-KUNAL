@@ -477,17 +477,16 @@ public class Patterns {
         }
     }
 
-
     static void pattern15(int n) {
-      //   15.   *
-      //        * *
-      //       *   *
-      //      *     *
-      //     *       *
-      //      *     *
-      //       *   *
-      //        * *
-      //         *
+        //   15.   *
+        //        * *
+        //       *   *
+        //      *     *
+        //     *       *
+        //      *     *
+        //       *   *
+        //        * *
+        //         *
 
         for (int row = 0; row < n; row++) {
 
