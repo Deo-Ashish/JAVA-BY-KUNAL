@@ -24,11 +24,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1929-concatenation-of-array) |
 ## Hash Table
