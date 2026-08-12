@@ -20,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0374-guess-number-higher-or-lower) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
