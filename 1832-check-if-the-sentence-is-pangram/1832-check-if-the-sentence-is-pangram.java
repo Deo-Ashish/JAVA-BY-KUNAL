@@ -1,16 +1,14 @@
 class Solution {
-    public boolean checkIfPangram(String sentence) {
-        boolean[] seen = new boolean[26];
-
-        for (char ch : sentence.toCharArray()) {
-            seen[ch - 'a'] = true;
+    public boolean checkIfPangram(String s) {
+          if (s.length() < 26) {
+            return false;
         }
-
-        for (boolean present : seen) {
-            if (!present)
+        for (char i = 'a'; i <= 'z'; i++) {
+            if (s.indexOf(i) == -1) {
                 return false;
+            }
         }
-
         return true;
     }
 }
+    
