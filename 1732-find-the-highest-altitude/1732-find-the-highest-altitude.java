@@ -9,9 +9,11 @@ class Solution {
         for (int i = 0; i < n; i++) {
             ans[i] = startingPoint;
             startingPoint += gain[i];
-            if (maxValue < startingPoint) {
-                maxValue = startingPoint;
-            }
+
+            maxValue = Math.max(maxValue, startingPoint);
+            // if (maxValue < startingPoint) {
+            //     maxValue = startingPoint;
+            // }
         }
         return maxValue;
     }
