@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1732-find-the-highest-altitude](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1732-find-the-highest-altitude) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1929-concatenation-of-array) |
@@ -57,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1732-find-the-highest-altitude) |
+## Two Pointers
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
+## Matrix
+|  |
+| ------- |
+| [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 <!---LeetCode Topics End-->
