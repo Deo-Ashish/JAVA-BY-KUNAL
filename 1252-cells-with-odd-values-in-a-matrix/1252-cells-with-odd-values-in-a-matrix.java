@@ -1,28 +1,36 @@
 class Solution {
     public int oddCells(int m, int n, int[][] indices) {
 
-        // int[][] matrix = new int[m][n];
         int[] row = new int[m];
         int[] col = new int[n];
 
+        // Count increments for each row and column
         for (int[] index : indices) {
-            int r = index[0];
-            int c = index[1];
-
-            row[r]++;
-            col[c]++;
+            row[index[0]]++;
+            col[index[1]]++;
         }
 
-        int count = 0;
+        int oddRows = 0;
+        int oddCols = 0;
 
-        for (int i = 0; i < m; i++) {
-            for (int j = 0; j < n; j++) {
-                if ((row[i] + col[j]) % 2 == 1) {
-                    count++;
-                }
+        // Count odd rows
+        for (int value : row) {
+            if (value % 2 != 0) {
+                oddRows++;
             }
         }
-        return count;
-    }
 
+        // Count odd columns
+        for (int value : col) {
+            if (value % 2 != 0) {
+                oddCols++;
+            }
+        }
+
+        int evenRows = m - oddRows;
+        int evenCols = n - oddCols;
+
+        // Odd = odd row + even column OR even row + odd column
+        return (oddRows * evenCols) + (evenRows * oddCols);
+    }
 }
