@@ -1,33 +1,56 @@
 class Solution {
     public List<Integer> addToArrayForm(int[] num, int k) {
 
-        List<Integer> res = new ArrayList<>();
-
         int e = num.length - 1;
         int carry = 0;
 
-        while (e >= 0 || k > 0 || carry > 0) {
+        while (k > 0 || carry > 0) {
 
-            int sum = carry;
+            int l = k % 10;
+            k = k / 10;
 
             if (e >= 0) {
-                sum += num[e];
-                e--;
+                num[e] += l + carry;
+            } else {
+                // k has more digits than num
+                ArrayList<Integer> res = new ArrayList<>();
+
+                int sum = l + carry;
+                res.add(0, sum % 10);
+                carry = sum / 10;
+
+                while (k > 0) {
+                    sum = k % 10 + carry;
+                    res.add(0, sum % 10);
+                    carry = sum / 10;
+                    k = k / 10;
+                }
+
+                for (int i = 0; i < num.length; i++) {
+                    res.add(num[i]);
+                }
+
+                if (carry > 0) {
+                    res.add(0, carry);
+                }
+
+                return res;
             }
 
-            if (k > 0) {
-                sum += k % 10;
-                k /= 10;
-            }
+            carry = num[e] / 10;
+            num[e] = num[e] % 10;
 
-            res.add(0, sum % 10);
-            carry = sum / 10;
+            e--;
         }
 
-        // If there are remaining digits in num
-        while (e >= 0) {
-            res.add(0, num[e]);
-            e--;
+        ArrayList<Integer> res = new ArrayList<>();
+
+        if (carry > 0) {
+            res.add(carry);
+        }
+
+        for (int i = 0; i < num.length; i++) {
+            res.add(num[i]);
         }
 
         return res;
