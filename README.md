@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1773-count-items-matching-a-rule) |
+| [1854-maximum-population-year](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1929-concatenation-of-array) |
 ## Simulation
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1854-maximum-population-year](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1854-maximum-population-year) |
 ## String
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1732-find-the-highest-altitude) |
+| [1854-maximum-population-year](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1854-maximum-population-year) |
 ## Two Pointers
 |  |
 | ------- |
