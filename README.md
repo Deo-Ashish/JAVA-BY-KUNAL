@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Binary Search
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1572-matrix-diagonal-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1572-matrix-diagonal-sum) |
