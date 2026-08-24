@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0069-sqrtx) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 <!---LeetCode Topics End-->
