@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0238-product-of-array-except-self) |
 | [0566-reshape-the-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 ## Greedy
 |  |
 | ------- |
