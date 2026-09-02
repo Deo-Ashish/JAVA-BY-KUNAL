@@ -1,43 +1,48 @@
-import java.util.*;
-
 class Solution {
     public int findMaxValueOfEquation(int[][] points, int k) {
-
-        // Stores index of points
-        // in decreasing order of (y - x)
-        Deque<Integer> dq = new ArrayDeque<>();
-
-        int ans = Integer.MIN_VALUE;
-
-        for (int j = 0; j < points.length; j++) {
-
+        int n = points.length;
+        int i = 0;
+        int bestI = 0;
+        int max = Integer.MIN_VALUE;
+        for (int j = 1; j < n; j++) {
             int xj = points[j][0];
             int yj = points[j][1];
 
-            // Remove points that are outside the range k
-            while (!dq.isEmpty() &&
-                    xj - points[dq.peek()][0] > k) {
-                dq.pollFirst();
+            while (i < j) { // This Equlas  while( (i < j) && (xj - xi > k) )-> i++;
+                int xi = points[i][0];
+                if (xj - xi > k) {
+                    i++;
+                } else {
+                    break;
+                }
             }
 
-            // Best previous point is at the front
-            if (!dq.isEmpty()) {
-                int i = dq.peekFirst();
-
-                ans = Math.max(ans,
-                        points[i][1] - points[i][0]
-                                + yj + xj);
+            if (i == j) {
+                bestI = i;
+                continue;
             }
 
-            // Maintain decreasing order of (y - x)
-            while (!dq.isEmpty() &&
-                    points[dq.peekLast()][1] - points[dq.peekLast()][0] <= yj - xj) {
-                dq.pollLast();
-            }
+            if (bestI < i) {
+                bestI = i;
 
-            dq.offerLast(j);
+                for (int m = i + 1; m < j; m++) {
+                    int xm = points[m][0];
+                    int ym = points[m][1];
+                    int xbestI = points[bestI][0];
+                    int ybestI = points[bestI][1];
+                    if ((ym - xm) >= (ybestI - xbestI)) {
+                        bestI = m;
+                    }
+                }
+            }
+            int xbestI = points[bestI][0];
+            int ybestI = points[bestI][1];
+            max = Math.max(max, ybestI - xbestI + xj + yj);
+
+            if ((yj - xj) >= (ybestI - xbestI))
+                bestI = j;
+
         }
-
-        return ans;
+        return max;
     }
 }
