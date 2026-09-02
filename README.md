@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
+| [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
 | [1572-matrix-diagonal-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1572-matrix-diagonal-sum) |
 | [1732-find-the-highest-altitude](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1773-count-items-matching-a-rule) |
@@ -132,4 +133,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+## Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
+## Sliding Window
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
 <!---LeetCode Topics End-->
