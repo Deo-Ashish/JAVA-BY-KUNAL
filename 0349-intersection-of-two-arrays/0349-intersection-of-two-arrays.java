@@ -11,7 +11,7 @@ class Solution {
         for (int num : nums2) {
             if (seen[num]) {
                 temp[count++] = num;
-                seen[num] = false; 
+                seen[num] = false;
             }
         }
 
