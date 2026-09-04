@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0238-product-of-array-except-self) |
+| [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0566-reshape-the-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0867-transpose-matrix) |
@@ -75,11 +77,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0001-two-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -102,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
