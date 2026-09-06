@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0374-guess-number-higher-or-lower) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Newton's Method
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
 | [1572-matrix-diagonal-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1572-matrix-diagonal-sum) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1732-find-the-highest-altitude](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1773-count-items-matching-a-rule) |
 | [1854-maximum-population-year](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1854-maximum-population-year) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Counting Sort
 |  |
 | ------- |
