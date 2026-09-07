@@ -15,9 +15,9 @@ class Solution {
                 return high + 1;
             }
 
-            else if (nums[low] > target) {
-                return low;
-            }
+            // else if (nums[low] > target) {
+            //     return low;
+            // }
 
             else if (nums[mid] < target) {
                 low = mid + 1;
