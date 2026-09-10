@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0540-single-element-in-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0238-product-of-array-except-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0867-transpose-matrix) |
