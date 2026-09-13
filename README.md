@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0367-valid-perfect-square) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0066-plus-one) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0238-product-of-array-except-self) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
