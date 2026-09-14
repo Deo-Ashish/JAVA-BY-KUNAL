@@ -20,6 +20,6 @@ class Solution {
             }
         }
 
-        return java.util.Arrays.copyOf(result, count);
+        return Arrays.copyOf(result, count);
     }
 }
