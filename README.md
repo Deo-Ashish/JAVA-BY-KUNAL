@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0540-single-element-in-a-sorted-array) |
+| [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1539-kth-missing-positive-number) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0867-transpose-matrix) |
 | [0885-spiral-matrix-iii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
