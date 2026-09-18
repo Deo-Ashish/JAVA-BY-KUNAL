@@ -4,7 +4,6 @@ class Solution {
         int n = intervals.length;
         int[] ans = new int[n];
 
-        // Store {start, original index}
         int[][] starts = new int[n][2];
 
         for (int i = 0; i < n; i++) {
