@@ -4,18 +4,35 @@ class Solution {
         int n = intervals.length;
         int[] ans = new int[n];
 
+        // Store {start, original index}
+        int[][] starts = new int[n][2];
+
         for (int i = 0; i < n; i++) {
-            int best = Integer.MAX_VALUE;
+            starts[i][0] = intervals[i][0];
+            starts[i][1] = i;
+        }
+
+        // Sort by start value
+        Arrays.sort(starts, (a, b) -> Integer.compare(a[0], b[0]));
+
+        for (int i = 0; i < n; i++) {
+
+            int end = intervals[i][1];
+
+            int low = 0;
+            int high = n - 1;
             int index = -1;
 
-            for (int j = 0; j < n; j++) {
+            // Binary search for first start >= end
+            while (low <= high) {
 
-                if (intervals[j][0] >= intervals[i][1]) {
+                int mid = low + (high - low) / 2;
 
-                    if (intervals[j][0] < best) {
-                        best = intervals[j][0];
-                        index = j;
-                    }
+                if (starts[mid][0] >= end) {
+                    index = starts[mid][1];
+                    high = mid - 1;
+                } else {
+                    low = mid + 1;
                 }
             }
 
