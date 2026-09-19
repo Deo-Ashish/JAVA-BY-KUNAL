@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0441-arranging-coins) |
+| [0754-reach-a-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0754-reach-a-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0436-find-right-interval](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0540-single-element-in-a-sorted-array) |
+| [0754-reach-a-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0754-reach-a-number) |
 | [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
