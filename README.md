@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Newton's Method
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0055-jump-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
 ## Queue
 |  |
 | ------- |
