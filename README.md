@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0367-valid-perfect-square) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0436-find-right-interval) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 ## Matrix
 |  |
@@ -208,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
