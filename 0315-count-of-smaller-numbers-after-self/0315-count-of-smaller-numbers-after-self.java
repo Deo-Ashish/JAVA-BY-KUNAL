@@ -1,38 +1,73 @@
 class Solution {
+    int[] count;
+    int[] index;
+    int[] temp;
+
     public List<Integer> countSmaller(int[] nums) {
+        int n = nums.length;
 
-        List<Integer> result = new ArrayList<>();
-        List<Integer> sorted = new ArrayList<>();
+        count = new int[n];
+        index = new int[n];
+        temp = new int[n];
 
-        // Initialize result with 0
-        for (int i = 0; i < nums.length; i++) {
-            result.add(0);
+        for (int i = 0; i < n; i++) {
+            index[i] = i;
         }
 
-        // Traverse from right to left
-        for (int i = nums.length - 1; i >= 0; i--) {
+        mergeSort(nums, 0, n - 1);
 
-            int low = 0;
-            int high = sorted.size();
+        List<Integer> result = new ArrayList<>();
 
-            // Binary Search
-            while (low < high) {
-                int mid = low + (high - low) / 2;
-
-                if (sorted.get(mid) < nums[i]) {
-                    low = mid + 1;
-                } else {
-                    high = mid;
-                }
-            }
-
-            // low = number of elements smaller than nums[i]
-            result.set(i, low);
-
-            // Insert in sorted position
-            sorted.add(low, nums[i]);
+        for (int i = 0; i < n; i++) {
+            result.add(count[i]);
         }
 
         return result;
+    }
+
+    void mergeSort(int[] nums, int left, int right) {
+
+        if (left >= right) {
+            return;
+        }
+
+        int mid = left + (right - left) / 2;
+
+        mergeSort(nums, left, mid);
+        mergeSort(nums, mid + 1, right);
+
+        merge(nums, left, mid, right);
+    }
+
+    void merge(int[] nums, int left, int mid, int right) {
+
+        int i = left;
+        int j = mid + 1;
+        int k = left;
+        int smaller = 0;
+
+        while (i <= mid && j <= right) {
+
+            if (nums[index[j]] < nums[index[i]]) {
+                smaller++;
+                temp[k++] = index[j++];
+            } else {
+                count[index[i]] += smaller;
+                temp[k++] = index[i++];
+            }
+        }
+
+        while (i <= mid) {
+            count[index[i]] += smaller;
+            temp[k++] = index[i++];
+        }
+
+        while (j <= right) {
+            temp[k++] = index[j++];
+        }
+
+        for (int x = left; x <= right; x++) {
+            index[x] = temp[x];
+        }
     }
 }
