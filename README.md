@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0053-maximum-subarray) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0018-4sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0436-find-right-interval](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0436-find-right-interval) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
