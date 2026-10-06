@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0436-find-right-interval) |
 | [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
