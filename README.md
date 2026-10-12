@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0989-add-to-array-form-of-integer) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1051-height-checker) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0922-sort-array-by-parity-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Bit Manipulation
 |  |
