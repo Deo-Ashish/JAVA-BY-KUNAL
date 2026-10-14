@@ -2,10 +2,30 @@ import java.util.Arrays;
 
 public class Sorting {
     static void main(String[] args) {
-        int[] arr = {5, 4, 3, 2, 1};
+        int[] arr = {6, 1, 2, 4, 3, 5};
 
-        insertion(arr);
+        CyclicSort(arr);
         System.out.println(Arrays.toString(arr));
+    }
+
+    static void CyclicSort(int[] arr) {
+        int i = 0;
+
+        while (i < arr.length) {
+            int correct = arr[i] - 1;
+
+            if (arr[i] != arr[correct]) {
+                swapValue(arr, i, correct);
+            } else {
+                i++;
+            }
+        }
+    }
+
+    static void swapValue(int[] arr, int first, int second) {
+        int temp = arr[first];
+        arr[first] = arr[second];
+        arr[second] = temp;
     }
 
     static void insertion(int[] arr) {
