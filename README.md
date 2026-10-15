@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0217-contains-duplicate) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1854-maximum-population-year](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1854-maximum-population-year) |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0169-majority-element) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Dynamic Programming
 |  |
@@ -347,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0976-largest-perimeter-triangle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
