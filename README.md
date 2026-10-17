@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0540-single-element-in-a-sorted-array) |
 | [0566-reshape-the-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0628-maximum-product-of-three-numbers) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0414-third-maximum-number) |
 | [0436-find-right-interval](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0436-find-right-interval) |
+| [0455-assign-cookies](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0628-maximum-product-of-three-numbers) |
 | [0888-fair-candy-swap](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0455-assign-cookies](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0832-flipping-an-image) |
 | [0905-sort-array-by-parity](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0922-sort-array-by-parity-ii) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0976-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1802-maximum-value-at-a-given-index-in-a-bounded-array](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1802-maximum-value-at-a-given-index-in-a-bounded-array) |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0976-largest-perimeter-triangle) |
 ## Polygons
 |  |
