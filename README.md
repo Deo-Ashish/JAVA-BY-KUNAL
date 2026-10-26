@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1389-create-target-array-in-the-given-order) |
 | [1499-max-value-of-equation](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1499-max-value-of-equation) |
+| [1528-shuffle-string](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1539-kth-missing-positive-number) |
 | [1572-matrix-diagonal-sum](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1572-matrix-diagonal-sum) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1528-shuffle-string](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Deo-Ashish/JAVA-BY-KUNAL/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Prefix Sum
